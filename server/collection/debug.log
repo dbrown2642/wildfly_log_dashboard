@@ -1,0 +1,3 @@
+2018-07-09 11:45:00,234 INFO sample debug info statement
+2018-07-09 11:46:00,234 WARN sample debug warn statement
+2018-07-09 11:47:00,234 ERROR sample debug error statement

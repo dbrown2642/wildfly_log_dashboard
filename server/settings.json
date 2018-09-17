@@ -1,0 +1,14 @@
+{
+    "people": [
+        {
+            "name": "First Person",
+            "email": "email@example.com"
+        }
+    ],
+    "logThreshold": {
+        "info": 40,
+        "warn": 20,
+        "error": 10
+    },
+    "emailMuted": false
+}
