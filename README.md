@@ -49,10 +49,14 @@ Logs are not stored on the application across sessions. The goal of this applica
 Dustin Brown (developed at a previous time and transferred to Github)
 
 ## Screenshots
+Dashboard with sample data (30 min view):
 [![log_dashboard_screenshot1.png](https://i.postimg.cc/Qxyr2qt7/log_dashboard_screenshot1.png)](https://postimg.cc/zVKMWKTD)
 
+Dashboard with sample data (hour view):
 [![log_dashboard_screenshot2.png](https://i.postimg.cc/9Fz6YqpQ/log_dashboard_screenshot2.png)](https://postimg.cc/HVDvpnRq)
 
+Email alert modal (accessed through "Settings" button on top right):
 [![log_dashboard_screenshot3.png](https://i.postimg.cc/nLKghKH0/log_dashboard_screenshot3.png)](https://postimg.cc/rdmQhrRr)
 
+Log threshold modal (accessed through "Settings" button on top right):
 [![log_dashboard_screenshot4.png](https://i.postimg.cc/rssPjv5P/log_dashboard_screenshot4.png)](https://postimg.cc/64sc5bjr)
