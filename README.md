@@ -15,7 +15,7 @@ In order to run this project, you must have [Node](https://nodejs.org/en/) insta
 3. in *app.js*, set the `logFile` variable to the location of your Wildfly Debug Log file
 4. Setup a Google account to work with the Gmail API:
     1. Set the `distributorEmail` variable in *mailer.js* (in the **server/tools** directory) to the email you wish to send automated emails from
-    2. Completing step 1 at this [link](https://developers.google.com/gmail/api/quickstart/js) will give you a *credentials.json* file that should be placed in the **server/tools/credentials** directory
+    2. Completing step 1 at this [link](https://developers.google.com/gmail/api/quickstart/go) will give you a *credentials.json* file that should be placed in the **server/tools/credentials** directory
     3. Upon first running the backend of the application (explained below), you will be prompted to go to a link and receive a token. Follow these steps and the program will automatically store it for future sessions (in the **server/tools/credentials** directory).
 
 ## Running the Application
